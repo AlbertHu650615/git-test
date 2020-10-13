@@ -1,9 +1,5 @@
 1st line
-<<<<<<< HEAD
-
-3rd line in try1
-=======
 2nd - master
-
+3rd line in try1
 4th - try2
->>>>>>> try2
+
